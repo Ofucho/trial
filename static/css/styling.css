@@ -1,0 +1,19 @@
+.container-fluid{
+    width: 70%;
+    height: 100%;
+    color: #101368;
+    border: black;
+    background-color: #ffe3ff;
+    margin-top: 0;
+    margin-left: 50px;
+
+
+}
+
+.container-fluid .content{
+    padding-left: 50px;
+}
+
+.table{
+    color: #000000;
+}
